@@ -278,6 +278,25 @@
    "country": "FR"
   },
   {
+   "slug": "athens",
+   "label": "athens",
+   "extract": "greece",
+   "bbox": [
+    23.43332,
+    37.68333,
+    24.03332,
+    38.28333
+   ],
+   "cluster": "us-northeast-68",
+   "fallback": [
+    "us-south",
+    "us-midwest",
+    "us-west",
+    "us-pacific"
+   ],
+   "country": "GR"
+  },
+  {
    "slug": "barcelona",
    "label": "barcelona",
    "extract": "spain",
@@ -958,6 +977,25 @@
    ],
    "cluster": "france-100",
    "country": "FR"
+  },
+  {
+   "slug": "geneva",
+   "label": "geneva",
+   "extract": "switzerland",
+   "bbox": [
+    5.84002,
+    45.91001,
+    6.44002,
+    46.51001
+   ],
+   "cluster": "us-northeast-74",
+   "fallback": [
+    "us-south",
+    "us-midwest",
+    "us-west",
+    "us-pacific"
+   ],
+   "country": "CH"
   },
   {
    "slug": "ghent",
@@ -2315,19 +2353,6 @@
    "country": "GB"
   },
   {
-   "slug": "noum-a",
-   "label": "noum-a",
-   "extract": "france",
-   "bbox": [
-    166.2177,
-    -22.4783,
-    166.6931,
-    -22.0384
-   ],
-   "cluster": "france-91",
-   "country": "FR"
-  },
-  {
    "slug": "novi-pazar",
    "label": "novi-pazar",
    "extract": "serbia",
@@ -3103,19 +3128,6 @@
     50.63
    ],
    "country": "BE"
-  },
-  {
-   "slug": "salazie",
-   "label": "salazie",
-   "extract": "france",
-   "bbox": [
-    55.2766,
-    -21.2587,
-    55.748,
-    -20.8187
-   ],
-   "cluster": "france-90",
-   "country": "FR"
   },
   {
    "slug": "sands",
