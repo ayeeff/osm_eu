@@ -414,8 +414,8 @@
    "country": "GB"
   },
   {
-   "slug": "bl-nod-l-s-pont-mousson",
-   "label": "bl-nod-l-s-pont-mousson",
+   "slug": "blenod-les-pont-a-mousson",
+   "label": "blenod-les-pont-a-mousson",
    "extract": "france",
    "bbox": [
     5.75385,
@@ -684,7 +684,7 @@
    "country": "CH"
   },
   {
-   "slug": "chiinu",
+   "slug": "chisinau",
    "label": "chiinu",
    "extract": "moldova",
    "bbox": [
@@ -1127,8 +1127,8 @@
    "country": "AT"
   },
   {
-   "slug": "gro-r-hrsdorf",
-   "label": "gro-r-hrsdorf",
+   "slug": "grossroehrsdorf",
+   "label": "grossroehrsdorf",
    "extract": "germany",
    "bbox": [
     13.7638,
@@ -1372,8 +1372,8 @@
    "country": "FR"
   },
   {
-   "slug": "jind-ich-v-hradec-ii",
-   "label": "jind-ich-v-hradec-ii",
+   "slug": "jindrichuv-hradec-ii",
+   "label": "jindrichuv-hradec-ii",
    "extract": "czech-republic",
    "bbox": [
     14.71445,
@@ -1385,8 +1385,8 @@
    "country": "CZ"
   },
   {
-   "slug": "k-s-m",
-   "label": "k-s-m",
+   "slug": "kasam",
+   "label": "kasam",
    "extract": "finland",
    "bbox": [
     29.0655,
@@ -1424,7 +1424,7 @@
    "country": "PL"
   },
   {
-   "slug": "kbenhavn",
+   "slug": "copenhagen",
    "label": "kbenhavn",
    "extract": "denmark",
    "bbox": [
@@ -1436,7 +1436,7 @@
    "country": "DK"
   },
   {
-   "slug": "kiev",
+   "slug": "kyiv",
    "label": "kiev",
    "extract": "ukraine",
    "bbox": [
@@ -1461,8 +1461,8 @@
    "country": "PL"
   },
   {
-   "slug": "ko-ick",
-   "label": "ko-ick",
+   "slug": "kosicke",
+   "label": "kosicke",
    "extract": "slovakia",
    "bbox": [
     21.3768,
@@ -1564,8 +1564,8 @@
    "country": "RS"
   },
   {
-   "slug": "la-font-d-en-carr-s",
-   "label": "la-font-d-en-carr-s",
+   "slug": "la-font-den-carros",
+   "label": "la-font-den-carros",
    "extract": "spain",
    "bbox": [
     -0.3668,
@@ -1719,8 +1719,8 @@
    "country": "NL"
   },
   {
-   "slug": "leli-k",
-   "label": "leli-k",
+   "slug": "lelik",
+   "label": "lelik",
    "extract": "lithuania",
    "bbox": [
     20.9373,
@@ -1888,8 +1888,8 @@
    "country": "GB"
   },
   {
-   "slug": "longeville-l-s-saint-avold",
-   "label": "longeville-l-s-saint-avold",
+   "slug": "longeville-les-saint-avold",
+   "label": "longeville-les-saint-avold",
    "extract": "france",
    "bbox": [
     6.3385,
@@ -1966,8 +1966,8 @@
    "country": "FR"
   },
   {
-   "slug": "m-laga",
-   "label": "m-laga",
+   "slug": "malaga",
+   "label": "malaga",
    "extract": "spain",
    "bbox": [
     -4.7263,
@@ -1979,8 +1979,8 @@
    "country": "ES"
   },
   {
-   "slug": "m-yry",
-   "label": "m-yry",
+   "slug": "mayry",
+   "label": "mayry",
    "extract": "finland",
    "bbox": [
     23.14875,
@@ -2109,8 +2109,8 @@
    "country": "FR"
   },
   {
-   "slug": "medve-a",
-   "label": "medve-a",
+   "slug": "medveda",
+   "label": "medveda",
    "extract": "serbia",
    "bbox": [
     20.90575,
@@ -2663,8 +2663,8 @@
    "country": "FR"
   },
   {
-   "slug": "pola-a",
-   "label": "pola-a",
+   "slug": "polaca",
+   "label": "polaca",
    "extract": "croatia",
    "bbox": [
     15.20835,
@@ -2793,8 +2793,8 @@
    "country": "CZ"
   },
   {
-   "slug": "prien-m",
-   "label": "prien-m",
+   "slug": "prien-am-chiemsee",
+   "label": "prien-am-chiemsee",
    "extract": "lithuania",
    "bbox": [
     23.6479,
@@ -2923,8 +2923,8 @@
    "country": "FR"
   },
   {
-   "slug": "reoc-n",
-   "label": "reoc-n",
+   "slug": "reocin",
+   "label": "reocin",
    "extract": "spain",
    "bbox": [
     -4.41655,
@@ -2949,7 +2949,7 @@
    "country": "IS"
   },
   {
-   "slug": "reykjavk",
+   "slug": "reykjavik",
    "label": "reykjavk",
    "extract": "iceland",
    "bbox": [
@@ -3053,8 +3053,8 @@
    "country": "FR"
   },
   {
-   "slug": "ropczycko-s-dziszowski",
-   "label": "ropczycko-s-dziszowski",
+   "slug": "ropczycko-sedziszowski",
+   "label": "ropczycko-sedziszowski",
    "extract": "poland",
    "bbox": [
     21.31315,
@@ -3079,8 +3079,8 @@
    "country": "RS"
   },
   {
-   "slug": "rzesz-w",
-   "label": "rzesz-w",
+   "slug": "rzeszow",
+   "label": "rzeszow",
    "extract": "poland",
    "bbox": [
     21.69505,
@@ -3131,8 +3131,8 @@
    "country": "FR"
   },
   {
-   "slug": "saint-s-bastien-sur-loire",
-   "label": "saint-s-bastien-sur-loire",
+   "slug": "saint-sebastien-sur-loire",
+   "label": "saint-sebastien-sur-loire",
    "extract": "france",
    "bbox": [
     -1.8006,
@@ -3206,8 +3206,8 @@
    "country": "IT"
   },
   {
-   "slug": "santa-b-rbara",
-   "label": "santa-b-rbara",
+   "slug": "santa-barbara",
+   "label": "santa-barbara",
    "extract": "spain",
    "bbox": [
     0.2071,
@@ -3426,8 +3426,8 @@
    "country": "PL"
   },
   {
-   "slug": "star-holice",
-   "label": "star-holice",
+   "slug": "stare-holice",
+   "label": "stare-holice",
    "extract": "czech-republic",
    "bbox": [
     15.71125,
@@ -3452,8 +3452,8 @@
    "country": "SE"
   },
   {
-   "slug": "svo-e",
-   "label": "svo-e",
+   "slug": "svojse",
+   "label": "svojse",
    "extract": "serbia",
    "bbox": [
     21.9664,
@@ -3619,8 +3619,8 @@
    "country": "ES"
   },
   {
-   "slug": "tren-iansky",
-   "label": "tren-iansky",
+   "slug": "trenciansky",
+   "label": "trenciansky",
    "extract": "slovakia",
    "bbox": [
     17.89955,
@@ -3632,8 +3632,8 @@
    "country": "SK"
   },
   {
-   "slug": "trentino-alto-adige-s-dtirol",
-   "label": "trentino-alto-adige-s-dtirol",
+   "slug": "trentino-alto-adige-suedtirol",
+   "label": "trentino-alto-adige-suedtirol",
    "extract": "italy",
    "bbox": [
     10.76615,
@@ -3683,8 +3683,8 @@
    "country": "GB"
   },
   {
-   "slug": "tyrn-v",
-   "label": "tyrn-v",
+   "slug": "tyrnava",
+   "label": "tyrnava",
    "extract": "finland",
    "bbox": [
     25.43205,
@@ -3709,8 +3709,8 @@
    "country": "IT"
   },
   {
-   "slug": "v-ksy",
-   "label": "v-ksy",
+   "slug": "vaaksy",
+   "label": "vaaksy",
    "extract": "finland",
    "bbox": [
     25.18635,
@@ -3837,8 +3837,8 @@
    "country": "AT"
   },
   {
-   "slug": "vila-nova-de-famalic-o",
-   "label": "vila-nova-de-famalic-o",
+   "slug": "vila-nova-de-famalicao",
+   "label": "vila-nova-de-famalicao",
    "extract": "portugal",
    "bbox": [
     -8.8211,
